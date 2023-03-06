@@ -1,4 +1,4 @@
-# GMMDA
+# GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation
 
 
 # Overview

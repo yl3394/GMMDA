@@ -1,9 +1,9 @@
-# GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation
+# GMMDA
 
 
 # Overview
 
-Here we provide the implementation of GMMDA, GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation, along with a minimal execution example (on the Cora, Citeseer, Pubmed, Cora-full, Coauthor-CS and Coauthor-physics dataset). 
+Here we provide the implementation of GMMDA, *GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation*, along with a minimal execution example (on the Cora, Citeseer, Pubmed, Cora-full, Coauthor-CS and Coauthor-physics dataset). 
 
 The three notebooks contains the implementation and experiment code of the GMMDA on Cora, Citeseer and Pubmed datasets, all three notebooks can be directly ran on Google colab after putting the needed datasets under the corresponding Google drive directories. For example, saving the Cora datasets under `/content/drive/MyDrive/gda_dnml/cora/data/`. 
 

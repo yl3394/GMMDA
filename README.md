@@ -7,7 +7,7 @@ Here we provide the implementation of GMMDA, *GMMDA: Gaussian Mixture Modeling o
 
 The six notebooks contains the implementation and experiment code of the GMMDA on all six datasets mentioned previously, and all three notebooks can be directly ran on Google colab after uploading the notebook files to your google drive folders and putting the needed datasets under the corresponding Google drive directories. For example, saving the Cora datasets under `/content/drive/MyDrive/gda_dnml/cora/data/`. 
 
-**[Recoomend]** You can also run the following colabs without uploading notebooks to your google drive:
+**[Recommend]** You can also run the following colabs without uploading notebooks to your google drive:
 - [Cora colab gist](https://colab.research.google.com/gist/yl3394/27cfba9f242499583152bbca37023f85/gmmda_cora.ipynb)
 - [Coauthor-CS colab gist](https://colab.research.google.com/gist/yl3394/7988b30a318daa0b966c5623efd61f44/gmmda_coauthor_cs.ipynb)
 - [Coauthor-physics colab gist](https://colab.research.google.com/gist/yl3394/8dafff6454aadeb0af176ae0187efc47/gmmda_coauthor_physics.ipynb)
